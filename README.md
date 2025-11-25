@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
   <img src="https://i.pinimg.com/originals/f6/6e/5d/f66e5d9797a3e4df888768725f673667.gif" width="200" height="200"/>
   
