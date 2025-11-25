@@ -16,10 +16,5 @@
 
 ---
 
-## 🧬 About Me
-```yaml
-Name: Jacky
-Focus: AI, Cloud Native, Automation, Full-Stack Engineering
-Mindset: Create Fast, Iterate Faster
-Keyword: Cyber • Tech • Neon • Future
+
 
