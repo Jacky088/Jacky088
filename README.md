@@ -4,10 +4,8 @@
 
 ## ⚡ // SYSTEM.OPERATOR
 
-- 👤 **Operator:** Jacky088
 - 🔭 **Current Mission:** 正在构建突破边界的高性能应用与开源工具。
 - ⚡ **Tech Philosophy:** 代码即艺术，效率至上，极简唯美。
-- 📬 **Neural Link:** [Contact Me](https://github.com/Jacky088)
 
 ---
 
