@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:7000ff&height=180&section=header&text=CYBERSPACE%20NODE&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=bold&size=24&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=60&lines=WELCOME+TO+JACKY088'S+CYBERSPACE;THE+FUTURE+IS+BUILT+WITH+CODE;EXPLORE+THE+UNKNOWN" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:7000ff&height=160&section=header&text=WELCOME%20TO%20JACKY088'S%20SPACE&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" />
 </p>
 
 ## ⚡ // SYSTEM.OPERATOR
@@ -27,7 +23,7 @@
 
 ## 🚀 // FEATURED_PROJECTS
 
-> 摆脱官方 6 个 Pin 的束缚，核心项目矩阵：
+> 核心项目矩阵：
 
 | 核心代号 (Project) | 核心技术栈 (Stack) | 系统说明与架构 | 访问入口 |
 | :--- | :--- | :--- | :--- |
@@ -46,19 +42,16 @@
 
 ---
 
-## 📊 // STATISTICS_MATRIX
+## 📊 // STATUS & BADGES
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jacky088&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacky088&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jacky088&theme=radical&hide_border=true&background=0d1117" alt="GitHub Streak" width="100%" />
+  <img src="https://img.shields.io/badge/Status-Online-00f0ff?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Profile-Active-7000ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Open_Source-success?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,100:00f0ff&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,100:00f0ff&height=90&section=footer" width="100%" />
 </p>
