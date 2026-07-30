@@ -25,16 +25,19 @@
 
 | 核心代号 (Project) | 核心技术栈 (Stack) | 系统说明与架构 | 访问入口 |
 | :--- | :--- | :--- | :--- |
-| **⚡ Cyber-Engine** | `Rust` `WASM` | 高性能前端底层计算引擎 | [Source ↗](https://github.com/Jacky088/cyber-engine) |
-| **🌌 Nebula-API** | `Go` `Docker` | 现代化微服务分布式网关 | [Source ↗](https://github.com/Jacky088/nebula-api) |
-| **🔮 Matrix-UI** | `React` `Tailwind` | 赛博朋克风极简组件库 | [Source ↗](https://github.com/Jacky088/matrix-ui) |
+| **🌐 Homepage** | `HTML` `CSS` `JS` | 个人极简主页与导航面板 | [Source ↗](https://github.com/Jacky088/homepage) |
+| **🖼️ Edgeone-Imgbed** | `Workers` `Edge` | 基于边缘计算的高性能图床系统 | [Source ↗](https://github.com/Jacky088/Edgeone-Imgbed) |
+| **📱 Apps-Exhibition** | `React` `Web` | 个人移动端与桌面端应用作品展示 | [Source ↗](https://github.com/Jacky088/apps_exhibition) |
+| **🛍️ Goods-Exhibition** | `Vue` `Tailwind` | 精品好物与开源周边展示橱窗 | [Source ↗](https://github.com/Jacky088/goods_exhibition) |
 
 <details>
-<summary><b>📂 [ 点击展开查看归档的全部开源项目 / Archive ]</b></summary>
+<summary><b>📂 [ 点击展开查看更多开源项目与归档 / Archive ]</b></summary>
 <br>
 
-* **[Script-X](https://github.com/Jacky088/script-x):** 自动化运维与高效率开发脚本集合。
-* **[AI-Core](https://github.com/Jacky088/ai-core):** 大语言模型本地化接入与流式调用中间件。
+* **[Elegant-TOC](https://github.com/Jacky088/Elegant-TOC):** 优雅的文章目录与大纲悬浮导航插件。
+* **[Photo-Wall](https://github.com/Jacky088/photo-wall):** 响应式个人摄影与精美图片墙瀑布流。
+* **[Flavor-Like](https://github.com/Jacky088/flavor-like):** 现代化的轻量级点赞与互动组件。
+* **[Post-Views](https://github.com/Jacky088/post-views):** 高性能博客文章浏览量统计与计数服务。
 
 </details>
 
