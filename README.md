@@ -38,6 +38,7 @@
 * **[Photo-Wall](https://github.com/Jacky088/photo-wall):** 响应式个人摄影与精美图片墙瀑布流。
 * **[Flavor-Like](https://github.com/Jacky088/flavor-like):** 现代化的轻量级点赞与互动组件。
 * **[Post-Views](https://github.com/Jacky088/post-views):** 高性能博客文章浏览量统计与计数服务。
+* **[External-Link](https://github.com/Jacky088/External-Link):** 功能完善的外链安全跳转插件。
 
 </details>
 
