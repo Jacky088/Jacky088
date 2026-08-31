@@ -26,7 +26,9 @@
 | 核心代号 (Project) | 核心技术栈 (Stack) | 系统说明与架构 | 访问入口 |
 | :--- | :--- | :--- | :--- |
 | **🌐 Homepage** | `HTML` `CSS` `JS` | 个人极简主页与导航面板 | [Source ↗](https://github.com/Jacky088/homepage) |
+| **🔥 Daily-Hot** | `HTML` `CSS` `JS` | 一站式热榜聚合面板 | [Source ↗](https://github.com/Jacky088/Daily-Hot) |
 | **🖼️ Edgeone-Imgbed** | `Workers` `Edge` | 基于边缘计算的高性能图床系统 | [Source ↗](https://github.com/Jacky088/Edgeone-Imgbed) |
+| **🔗 Edgeone-ShortURL** | `Workers` `Edge` | 基于边缘计算的短链接跳转服务 | [Source ↗](https://github.com/Jacky088/Edgeone-ShortURL) |
 | **📱 Apps-Exhibition** | `React` `Web` | 个人移动端与桌面端应用作品展示 | [Source ↗](https://github.com/Jacky088/apps_exhibition) |
 | **🛍️ Goods-Exhibition** | `Vue` `Tailwind` | 精品好物与开源周边展示橱窗 | [Source ↗](https://github.com/Jacky088/goods_exhibition) |
 
@@ -39,8 +41,6 @@
 * **[Flavor-Like](https://github.com/Jacky088/flavor-like):** 现代化的轻量级点赞与互动组件。
 * **[Post-Views](https://github.com/Jacky088/post-views):** 高性能博客文章浏览量统计与计数服务。
 * **[External-Link](https://github.com/Jacky088/External-Link):** 功能完善的外链安全跳转插件。
-* **[Edgeone-ShortURL](https://github.com/Jacky088/Edgeone-ShortURL):** Serverless短链接跳转服务。
-* **[Daily-Hot](https://github.com/Jacky088/Daily-Hot):** 一站式热榜聚合面板60s看尽天下事。
 
 </details>
 
