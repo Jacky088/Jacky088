@@ -25,7 +25,7 @@
 
 | 核心代号 (Project) | 核心技术栈 (Stack) | 系统说明与架构 | 访问入口 |
 | :--- | :--- | :--- | :--- |
-| **🌐 Homepage** | `HTML` `CSS` `JS` | 个人极简主页与导航面板 | [Source ↗](https://github.com/Jacky088/homepage) |
+| **🌐 Homepage** | `Vue` `HTML` `JS` | 个人极简主页与导航面板 | [Source ↗](https://github.com/Jacky088/homepage) |
 | **🔥 Daily-Hot** | `HTML` `CSS` `JS` | 一站式热榜聚合面板 | [Source ↗](https://github.com/Jacky088/Daily-Hot) |
 | **🖼️ Edgeone-Imgbed** | `Workers` `Edge` | 基于边缘计算的高性能图床系统 | [Source ↗](https://github.com/Jacky088/Edgeone-Imgbed) |
 | **🔗 Edgeone-ShortURL** | `Workers` `Edge` | 基于边缘计算的短链接跳转服务 | [Source ↗](https://github.com/Jacky088/Edgeone-ShortURL) |
