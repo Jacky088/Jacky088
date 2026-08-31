@@ -1,61 +1,179 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:7000ff&height=160&section=header&text=WELCOME%20TO%20JACKY088'S%20SPACE&fontSize=36&fontColor=fff&animation=twinkling&fontAlignY=38" width="100%" />
-</p>
-
-## ⚡ // SYSTEM.OPERATOR
-
-- 🔭 **Current Mission:** 正在构建突破边界的高性能应用与开源工具。
-- ⚡ **Tech Philosophy:** 代码即艺术，效率至上，极简唯美。
-
----
-
-## 🛡️ // TECH_STACK_MATRIX
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:7000ff&height=180&section=header&text=JACKY088&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY<h1 align="center">⚡ Jacky088</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,go,rust,react,nextjs,vue,docker,k8s,git,linux,vscode,neovim&theme=dark" />
-  </a>
+  Builder • Open Source Enthusiast • Full Stack Developer
+</p>
+
+<p align="center">
+  <img src="https://komarev.comername=Jacky088&style=for-the-badge&color=00f0ff
+  <img src="https://img.shields.io/github/followers/Jacky088-the-badge&color=7000ff
 </p>
 
 ---
 
-## 🚀 // FEATURED_PROJECTS
+## ⚡ SYSTEM.OPERATOR
 
-> 核心项目矩阵：
+```yaml
+Role: Independent Developer
 
-| 核心代号 (Project) | 核心技术栈 (Stack) | 系统说明与架构 | 访问入口 |
-| :--- | :--- | :--- | :--- |
-| **🌐 Homepage** | `HTML` `CSS` `JS` | 个人极简主页与导航面板 | [Source ↗](https://github.com/Jacky088/homepage) |
-| **🖼️ Edgeone-Imgbed** | `Workers` `Edge` | 基于边缘计算的高性能图床系统 | [Source ↗](https://github.com/Jacky088/Edgeone-Imgbed) |
-| **📱 Apps-Exhibition** | `React` `Web` | 个人移动端与桌面端应用作品展示 | [Source ↗](https://github.com/Jacky088/apps_exhibition) |
-| **🛍️ Goods-Exhibition** | `Vue` `Tailwind` | 精品好物与开源周边展示橱窗 | [Source ↗](https://github.com/Jacky088/goods_exhibition) |
+Current Mission:
+  - Build high performance applications
+  - Create useful open source projects
+  - Explore Edge Computing
+  - Explore AI
 
-<details>
-<summary><b>📂 [ 点击展开查看更多开源项目与归档 / Archive ]</b></summary>
-<br>
-
-* **[Elegant-TOC](https://github.com/Jacky088/Elegant-TOC):** 优雅的文章目录与大纲悬浮导航插件。
-* **[Photo-Wall](https://github.com/Jacky088/photo-wall):** 响应式个人摄影与精美图片墙瀑布流。
-* **[Flavor-Like](https://github.com/Jacky088/flavor-like):** 现代化的轻量级点赞与互动组件。
-* **[Post-Views](https://github.com/Jacky088/post-views):** 高性能博客文章浏览量统计与计数服务。
-* **[External-Link](https://github.com/Jacky088/External-Link):** 功能完善的外链安全跳转插件。
-* **[Edgeone-ShortURL](https://github.com/Jacky088/Edgeone-ShortURL):** Serverless短链接跳转服务。
-* **[Daily-Hot](https://github.com/Jacky088/Daily-Hot):** 一站式热榜聚合面板60s看尽天下事。
-
-</details>
+Tech Philosophy:
+  "Code is Art."
+  "Simplicity creates Power."
+```
 
 ---
 
-## 📊 // STATUS & BADGES
+## 🛠 TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,ts,go,rust,react,nextjs,vue,nodejs,docker,kubernetes,vscode,neovim&theme=dark
+</p>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+### 🌐 Homepage
+
+个人主页与导航中心
+
+**Stack**
+
+`HTML` `CSS` `JavaScript`
+
+<a href/github.com/Jacky088/homepage
+  Source ↗
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🖼 Edgeone ImgBed
+
+基于 EdgeOne 的高性能图床系统
+
+**Stack**
+
+`Workers` `Edge`
+
+<a href/github.com/Jacky088/Edgeone-Imgbed
+  Source ↗
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 📱 Apps Exhibition
+
+个人应用展示中心
+
+**Stack**
+
+`React`
+
+<a href="https://github.com/Jack_exhibition
+  Source ↗
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🛍 Goods Exhibition
+
+精品好物展示平台
+
+**Stack**
+
+`Vue` `TailwindCSS`
+
+<a href/github.com/Jacky088/goods_exhibition
+  Source ↗
+</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📦 OPEN SOURCE ECOSYSTEM
+
+| Project | Description |
+|----------|-------------|
+| [Elegantgithub.com/Jacky088/Elegant-TOC | 优雅目录导航插件 |
+| [Photo-Wall](https://github.com/Jacky088/响应式摄影图片墙 |
+| [Flavor-Like](https://github.com/Jacky088/flavor-like)https://github.com/Jacky088/post-views | 阅读量统计服务 |
+| [Externalithub.com/Jacky088/External-Link | 安全外链跳转插件 |
+| [Edgeone-ShortURLm/Jacky088/Edgeone-ShortURL | Serverless 短链接服务 |
+| [Daily-Hotthub.com/Jacky088/Daily-Hot | 一站式热榜聚合平台 |
+
+---
+
+# 🌌 PROJECT UNIVERSE
+
+```text
+Jacky088
+│
+├─ Homepage
+├─ Edgeone ImgBed
+├─ Edgeone ShortURL
+├─ Daily Hot
+│
+├─ Apps Exhibition
+├─ Goods Exhibition
+│
+├─ Elegant TOC
+├─ Photo Wall
+├─ Flavor Like
+├─ Post Views
+└─ External Link
+```
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Jacky088&show_icons=true&theme=true
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?yonight&hide_border=true
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top88&layout=compact&theme=tokyonight&hide_border=true
+</p>
+
+---
+
+# 🛰 STATUS
 
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Online-00f0ff?style=for-the-badge&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Profile-Active-7000ff?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code-Open_Source-success?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shieldsOpen%20Source-Always-success?style=for-the-badge&logo=git&logoColor=white
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,100:00f0ff&height=90&section=footer" width="100%" />
+  <i>Building useful tools, one project at a time.</i>
+</p>
+
+<p align="center">
+  https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,100:00f0ff&height=120&section=footer
 </p>
