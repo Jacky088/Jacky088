@@ -132,13 +132,15 @@
 ## 📊 GitHub 数据
 
 <p align="center">
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/profile-summary?username=Jacky088&theme=github" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/repos-profile-summary?username=Jacky088&theme=github" />
-  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/top-langs?username=Jacky088&theme=github&layout=compact" />
+  <img width="32%" src="https://raw.githubusercontent.com/Jacky088/Jacky088/main/profile-summary-card-output/github/0-profile-details.svg" />
+  <img width="32%" src="https://raw.githubusercontent.com/Jacky088/Jacky088/main/profile-summary-card-output/github/1-repos-per-language.svg" />
+  <img width="32%" src="https://raw.githubusercontent.com/Jacky088/Jacky088/main/profile-summary-card-output/github/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jacky088&hide_border=true&background=FFFFFF&stroke=4D6BFF&ring=7000FF&fire=FF6B35&currStreakLabel=7000FF&sideLabels=57606A&dates=8B949E" />
+  <img width="32%" src="https://raw.githubusercontent.com/Jacky088/Jacky088/main/profile-summary-card-output/github/3-stats.svg" />
+  <img width="32%" src="https://raw.githubusercontent.com/Jacky088/Jacky088/main/profile-summary-card-output/github/4-productive-time.svg" />
+  <img width="32%" src="https://streak-stats.demolab.com?user=Jacky088&hide_border=true&background=FFFFFF&stroke=4D6BFF&ring=7000FF&fire=FF6B35&currStreakLabel=7000FF&sideLabels=57606A&dates=8B949E" />
 </p>
 
 <!-- 🐍 贪吃蛇动画：需要先在 Jacky088/Jacky088 仓库配置 GitHub Action 生成 SVG 后再取消注释
