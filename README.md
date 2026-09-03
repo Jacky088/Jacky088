@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00f0ff,50:4d6bff,100:7000ff&height=180&section=header&text=JACKY088&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Building%20at%20the%20edge%20of%20the%20web&descAlignY=55&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b8d9,50:4d6bff,100:7000ff&height=200&section=header&text=JACKY088&fontSize=48&fontColor=fff&animation=fadeIn&fontAlignY=34&desc=Building%20at%20the%20edge%20of%20the%20web&descAlignY=58&descSize=18" width="100%" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Jacky088">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%E4%BB%A3%E7%A0%81%E5%8D%B3%E8%89%BA%E6%9C%AF%EF%BC%8C%E6%95%88%E7%8E%87%E8%87%B3%E4%B8%8A%EF%BC%8C%E6%9E%81%E7%AE%80%E5%94%AF%E7%BE%8E;Code+is+art.+Ship+fast.+Stay+minimal." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=7000FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%E4%BB%A3%E7%A0%81%E5%8D%B3%E8%89%BA%E6%9C%AF%EF%BC%8C%E6%95%88%E7%8E%87%E8%87%B3%E4%B8%8A%EF%BC%8C%E6%9E%81%E7%AE%80%E5%94%AF%E7%BE%8E;Code+is+art.+Ship+fast.+Stay+minimal." alt="Typing SVG" />
   </a>
 </p>
 
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,ts,go,rust,react,nextjs,vue,docker,k8s,git,linux,vscode,neovim&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,js,ts,go,rust,react,nextjs,vue,docker,k8s,git,linux,vscode,neovim&theme=light&perline=14" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🔥 Daily-Hot</h3>
       <p align="center">
         <a href="https://github.com/Jacky088/Daily-Hot">
@@ -39,13 +39,13 @@
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/HTML-00f0ff?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/HTML-00b8d9?style=flat-square&labelColor=0d1117" />
         <img src="https://img.shields.io/badge/CSS-7000ff?style=flat-square&labelColor=0d1117" />
         <img src="https://img.shields.io/badge/JS-4d6bff?style=flat-square&labelColor=0d1117" />
       </p>
-      <p align="center">一站式热榜聚合面板，全网热点尽收眼底</p>
+      <p align="center">一站式热榜聚合面板</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🖼️ Edgeone-Imgbed</h3>
       <p align="center">
         <a href="https://github.com/Jacky088/Edgeone-Imgbed">
@@ -53,14 +53,12 @@
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Workers-00f0ff?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/Workers-00b8d9?style=flat-square&labelColor=0d1117" />
         <img src="https://img.shields.io/badge/Edge-7000ff?style=flat-square&labelColor=0d1117" />
       </p>
-      <p align="center">基于边缘计算的高性能图床系统</p>
+      <p align="center">基于边缘计算的高性能图床</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🔗 Edgeone-ShortURL</h3>
       <p align="center">
         <a href="https://github.com/Jacky088/Edgeone-ShortURL">
@@ -68,12 +66,14 @@
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Workers-00f0ff?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/Workers-00b8d9?style=flat-square&labelColor=0d1117" />
         <img src="https://img.shields.io/badge/Edge-7000ff?style=flat-square&labelColor=0d1117" />
       </p>
-      <p align="center">基于边缘计算的短链接跳转服务</p>
+      <p align="center">边缘计算的短链接跳转服务</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="33%" valign="top">
       <h3 align="center">🌐 Homepage</h3>
       <p align="center">
         <a href="https://github.com/Jacky088/homepage">
@@ -81,14 +81,12 @@
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Vue-00f0ff?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/Vue-00b8d9?style=flat-square&labelColor=0d1117" />
         <img src="https://img.shields.io/badge/HTML-7000ff?style=flat-square&labelColor=0d1117" />
       </p>
       <p align="center">个人极简主页与导航面板</p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">📱 Apps-Exhibition</h3>
       <p align="center">
         <a href="https://github.com/Jacky088/apps_exhibition">
@@ -96,12 +94,12 @@
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-00f0ff?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/React-00b8d9?style=flat-square&labelColor=0d1117" />
         <img src="https://img.shields.io/badge/Web-7000ff?style=flat-square&labelColor=0d1117" />
       </p>
-      <p align="center">个人移动端与桌面端应用作品展示</p>
+      <p align="center">移动端与桌面端应用作品展示</p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🛍️ Goods-Exhibition</h3>
       <p align="center">
         <a href="https://github.com/Jacky088/goods_exhibition">
@@ -109,10 +107,10 @@
         </a>
       </p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Vue-00f0ff?style=flat-square&labelColor=0d1117" />
+        <img src="https://img.shields.io/badge/Vue-00b8d9?style=flat-square&labelColor=0d1117" />
         <img src="https://img.shields.io/badge/Tailwind-7000ff?style=flat-square&labelColor=0d1117" />
       </p>
-      <p align="center">精品好物与开源周边展示橱窗</p>
+      <p align="center">精品好物与开源周边橱窗</p>
     </td>
   </tr>
 </table>
@@ -134,26 +132,29 @@
 ## 📊 GitHub 数据
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jacky088&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=7000ff&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jacky088&layout=compact&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/profile-summary?username=Jacky088&theme=github" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/repos-profile-summary?username=Jacky088&theme=github" />
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/top-langs?username=Jacky088&theme=github&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jacky088&hide_border=true&background=0D1117&stroke=00F0FF&ring=7000FF&fire=FF6B35&currStreakLabel=00F0FF&sideLabels=c9d1d9&dates=8B949E" />
+  <img src="https://streak-stats.demolab.com?user=Jacky088&hide_border=true&background=FFFFFF&stroke=4D6BFF&ring=7000FF&fire=FF6B35&currStreakLabel=7000FF&sideLabels=57606A&dates=8B949E" />
 </p>
 
+<!-- 🐍 贪吃蛇动画：需要先在 Jacky088/Jacky088 仓库配置 GitHub Action 生成 SVG 后再取消注释
 <p align="center">
   <img src="https://raw.githubusercontent.com/Jacky088/Jacky088/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+-->
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Online-00f0ff?style=flat-square&labelColor=0d1117" />
   <img src="https://komarev.com/ghpvc/?username=Jacky088&style=flat-square&color=7000ff&label=访客" />
-  <img src="https://img.shields.io/badge/Open_Source-00f0ff?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Status-Online-00b8d9?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Open_Source-7000ff?style=flat-square&labelColor=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7000ff,50:4d6bff,100:00f0ff&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,50:4d6bff,100:00b8d9&height=120&section=footer" width="100%" />
 </p>
