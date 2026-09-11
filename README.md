@@ -98,7 +98,7 @@
       </p>
       <p align="center">移动端与桌面端应用作品展示</p>
     </td>
-    <td width="66%" valign="top">
+    <td width="33%" valign="top">
       <h3 align="center">🛍️ Goods-Exhibition</h3>
       <p align="center">
         <a href="https://github.com/Jacky088/goods_exhibition">
