@@ -83,7 +83,7 @@
         <img src="https://img.shields.io/badge/Vue-00b8d9?style=flat-square&labelColor=0d1117" />
         <img src="https://img.shields.io/badge/HTML-7000ff?style=flat-square&labelColor=0d1117" />
       </p>
-      <p align="center">个人极简主页与导航面板</p>
+      <p align="center">个人简约风格主页</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">📱 Apps-Exhibition</h3>
@@ -96,7 +96,7 @@
         <img src="https://img.shields.io/badge/React-00b8d9?style=flat-square&labelColor=0d1117" />
         <img src="https://img.shields.io/badge/Web-7000ff?style=flat-square&labelColor=0d1117" />
       </p>
-      <p align="center">移动端与桌面端应用作品展示</p>
+      <p align="center">APP应用作品展示WP插件</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">🛍️ Goods-Exhibition</h3>
@@ -109,7 +109,7 @@
         <img src="https://img.shields.io/badge/Vue-00b8d9?style=flat-square&labelColor=0d1117" />
         <img src="https://img.shields.io/badge/Tailwind-7000ff?style=flat-square&labelColor=0d1117" />
       </p>
-      <p align="center">精品好物与开源周边橱窗</p>
+      <p align="center">精品好物与周边橱窗WP插件</p>
     </td>
   </tr>
 </table>
@@ -118,11 +118,11 @@
 <summary><b>📂 更多开源项目与归档</b></summary>
 <br>
 
-- **[Elegant-TOC](https://github.com/Jacky088/Elegant-TOC)** — 优雅的文章目录与大纲悬浮导航插件
-- **[Photo-Wall](https://github.com/Jacky088/photo-wall)** — 响应式个人摄影与精美图片墙瀑布流
-- **[Flavor-Like](https://github.com/Jacky088/flavor-like)** — 现代化的轻量级点赞与互动组件
-- **[Post-Views](https://github.com/Jacky088/post-views)** — 高性能博客文章浏览量统计与计数服务
-- **[External-Link](https://github.com/Jacky088/External-Link)** — 功能完善的外链安全跳转插件
+- **[Elegant-TOC](https://github.com/Jacky088/Elegant-TOC)** — 优雅的文章目录与大纲悬浮导航WP插件
+- **[Photo-Wall](https://github.com/Jacky088/photo-wall)** — 响应式个人摄影与精美图片墙WP插件
+- **[Flavor-Like](https://github.com/Jacky088/flavor-like)** — 现代化的轻量级点赞与互动WP组件
+- **[Post-Views](https://github.com/Jacky088/post-views)** — 高性能博客文章浏览量统计与计数服务WP组件
+- **[External-Link](https://github.com/Jacky088/External-Link)** — 功能完善的外链安全跳转WP插件
 
 </details>
 
