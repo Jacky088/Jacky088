@@ -32,9 +32,9 @@
 
 ## 🚀 精选项目
 
-<table>
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="450" valign="top">
       <b><a href="https://github.com/Jacky088/Daily-Hot">🔥 Daily-Hot</a></b>&nbsp;
       <img align="right" src="https://img.shields.io/github/stars/Jacky088/Daily-Hot?style=flat-square&logo=github&color=4d6bff&labelColor=0d1117" />
       <br/><br/>
@@ -42,7 +42,7 @@
       <br/><br/>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
     </td>
-    <td width="50%" valign="top">
+    <td width="450" valign="top">
       <b><a href="https://github.com/Jacky088/Edgeone-Imgbed">🖼️ Edgeone-Imgbed</a></b>&nbsp;
       <img align="right" src="https://img.shields.io/github/stars/Jacky088/Edgeone-Imgbed?style=flat-square&logo=github&color=00b8d9&labelColor=0d1117" />
       <br/><br/>
@@ -52,7 +52,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="450" valign="top">
       <b><a href="https://github.com/Jacky088/Edgeone-ShortURL">🔗 Edgeone-ShortURL</a></b>&nbsp;
       <img align="right" src="https://img.shields.io/github/stars/Jacky088/Edgeone-ShortURL?style=flat-square&logo=github&color=7000ff&labelColor=0d1117" />
       <br/><br/>
@@ -60,7 +60,7 @@
       <br/><br/>
       <code>Workers</code> <code>Edge Computing</code>
     </td>
-    <td width="50%" valign="top">
+    <td width="450" valign="top">
       <b><a href="https://github.com/Jacky088/homepage">🌐 Homepage</a></b>&nbsp;
       <img align="right" src="https://img.shields.io/github/stars/Jacky088/homepage?style=flat-square&logo=github&color=4d6bff&labelColor=0d1117" />
       <br/><br/>
@@ -70,7 +70,7 @@
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="450" valign="top">
       <b><a href="https://github.com/Jacky088/apps_exhibition">📱 Apps-Exhibition</a></b>&nbsp;
       <img align="right" src="https://img.shields.io/github/stars/Jacky088/apps_exhibition?style=flat-square&logo=github&color=00b8d9&labelColor=0d1117" />
       <br/><br/>
@@ -78,7 +78,7 @@
       <br/><br/>
       <code>React</code> <code>WordPress</code>
     </td>
-    <td width="50%" valign="top">
+    <td width="450" valign="top">
       <b><a href="https://github.com/Jacky088/goods_exhibition">🛍️ Goods-Exhibition</a></b>&nbsp;
       <img align="right" src="https://img.shields.io/github/stars/Jacky088/goods_exhibition?style=flat-square&logo=github&color=7000ff&labelColor=0d1117" />
       <br/><br/>
