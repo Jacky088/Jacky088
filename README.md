@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b8d9,50:4d6bff,100:7000ff&height=200&section=header&text=JACKY088&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20at%20the%20edge%20of%20the%20web&descAlignY=60&descSize=18" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=4d6bff&height=150&section=header&text=JACKY088&fontSize=56&animation=scaleIn&fontAlignY=42&desc=Building%20at%20the%20edge%20of%20the%20web&descAlignY=72&descSize=17" width="100%" />
 </p>
 
 <p align="center">
@@ -136,6 +136,8 @@
   <img width="65%" src="https://streak-stats.demolab.com?user=Jacky088&hide_border=true&background=00000000&stroke=4D6BFF&ring=7000FF&fire=FF6B35&currStreakLabel=7000FF&sideLabels=8B949E&dates=8B949E&currStreakNum=4D6BFF&sideNums=4D6BFF" />
 </p>
 
+<br/>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7000ff,50:4d6bff,100:00b8d9&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b8d9,50:4d6bff,100:7000ff&height=2" width="100%" />
 </p>
