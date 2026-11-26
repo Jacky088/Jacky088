@@ -119,21 +119,15 @@
 ## 📊 GitHub 数据
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/Jacky088/Jacky088/main/profile-summary-card-output/github/0-profile-details.svg" />
+  <img width="32%" src="https://raw.githubusercontent.com/Jacky088/Jacky088/main/profile-summary-card-output/github/0-profile-details.svg" />
+  <img width="32%" src="https://raw.githubusercontent.com/Jacky088/Jacky088/main/profile-summary-card-output/github/1-repos-per-language.svg" />
+  <img width="32%" src="https://raw.githubusercontent.com/Jacky088/Jacky088/main/profile-summary-card-output/github/2-most-commit-language.svg" />
 </p>
 
 <p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/Jacky088/Jacky088/main/profile-summary-card-output/github/1-repos-per-language.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/Jacky088/Jacky088/main/profile-summary-card-output/github/2-most-commit-language.svg" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://raw.githubusercontent.com/Jacky088/Jacky088/main/profile-summary-card-output/github/3-stats.svg" />
-  <img width="49%" src="https://raw.githubusercontent.com/Jacky088/Jacky088/main/profile-summary-card-output/github/4-productive-time.svg" />
-</p>
-
-<p align="center">
-  <img width="65%" src="https://streak-stats.demolab.com?user=Jacky088&hide_border=true&background=00000000&stroke=4D6BFF&ring=7000FF&fire=FF6B35&currStreakLabel=7000FF&sideLabels=8B949E&dates=8B949E&currStreakNum=4D6BFF&sideNums=4D6BFF" />
+  <img width="32%" src="https://raw.githubusercontent.com/Jacky088/Jacky088/main/profile-summary-card-output/github/3-stats.svg" />
+  <img width="32%" src="https://raw.githubusercontent.com/Jacky088/Jacky088/main/profile-summary-card-output/github/4-productive-time.svg" />
+  <img width="32%" src="https://streak-stats.demolab.com?user=Jacky088&hide_border=true&background=00000000&stroke=4D6BFF&ring=7000FF&fire=FF6B35&currStreakLabel=7000FF&sideLabels=8B949E&dates=8B949E&currStreakNum=4D6BFF&sideNums=4D6BFF" />
 </p>
 
 <br/>
