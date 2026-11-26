@@ -32,59 +32,71 @@
 
 ## 🚀 精选项目
 
-<table width="100%">
+<table>
   <tr>
-    <td width="450" valign="top">
-      <b><a href="https://github.com/Jacky088/Daily-Hot">🔥 Daily-Hot</a></b>&nbsp;
+    <td valign="top">
+      <b><a href="https://github.com/Jacky088/115auto">🤖 115auto</a></b>
+      <img align="right" src="https://img.shields.io/github/stars/Jacky088/115auto?style=flat-square&logo=github&color=00b8d9&labelColor=0d1117" />
+      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b8d9,50:4d6bff,100:7000ff&height=2" width="500" height="2" />
+      <br/><br/>
+      115 网盘自动化助手，轻松实现云端任务自动处理。
+      <br/><br/>
+      <code>Python</code> <code>Automation</code>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/Jacky088/Daily-Hot">🔥 Daily-Hot</a></b>
       <img align="right" src="https://img.shields.io/github/stars/Jacky088/Daily-Hot?style=flat-square&logo=github&color=4d6bff&labelColor=0d1117" />
+      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b8d9,50:4d6bff,100:7000ff&height=2" width="500" height="2" />
       <br/><br/>
       一站式热榜聚合面板，极速聚合全网热点资讯。
       <br/><br/>
       <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
     </td>
-    <td width="450" valign="top">
-      <b><a href="https://github.com/Jacky088/Edgeone-Imgbed">🖼️ Edgeone-Imgbed</a></b>&nbsp;
-      <img align="right" src="https://img.shields.io/github/stars/Jacky088/Edgeone-Imgbed?style=flat-square&logo=github&color=00b8d9&labelColor=0d1117" />
+  </tr>
+  <tr>
+    <td valign="top">
+      <b><a href="https://github.com/Jacky088/Edgeone-Imgbed">🖼️ Edgeone-Imgbed</a></b>
+      <img align="right" src="https://img.shields.io/github/stars/Jacky088/Edgeone-Imgbed?style=flat-square&logo=github&color=7000ff&labelColor=0d1117" />
+      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b8d9,50:4d6bff,100:7000ff&height=2" width="500" height="2" />
       <br/><br/>
-      基于边缘计算的高性能图床服务，低延迟全球分发。
+      基于边缘计算的高性能图床，低延迟全球分发。
+      <br/><br/>
+      <code>Workers</code> <code>Edge Computing</code>
+    </td>
+    <td valign="top">
+      <b><a href="https://github.com/Jacky088/Edgeone-ShortURL">🔗 Edgeone-ShortURL</a></b>
+      <img align="right" src="https://img.shields.io/github/stars/Jacky088/Edgeone-ShortURL?style=flat-square&logo=github&color=00b8d9&labelColor=0d1117" />
+      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b8d9,50:4d6bff,100:7000ff&height=2" width="500" height="2" />
+      <br/><br/>
+      运行在边缘节点的轻量级短链接跳转服务。
       <br/><br/>
       <code>Workers</code> <code>Edge Computing</code>
     </td>
   </tr>
   <tr>
-    <td width="450" valign="top">
-      <b><a href="https://github.com/Jacky088/Edgeone-ShortURL">🔗 Edgeone-ShortURL</a></b>&nbsp;
-      <img align="right" src="https://img.shields.io/github/stars/Jacky088/Edgeone-ShortURL?style=flat-square&logo=github&color=7000ff&labelColor=0d1117" />
-      <br/><br/>
-      运行在边缘节点的轻量级短链接生成与跳转服务。
-      <br/><br/>
-      <code>Workers</code> <code>Edge Computing</code>
-    </td>
-    <td width="450" valign="top">
-      <b><a href="https://github.com/Jacky088/homepage">🌐 Homepage</a></b>&nbsp;
+    <td valign="top">
+      <b><a href="https://github.com/Jacky088/homepage">🌐 Homepage</a></b>
       <img align="right" src="https://img.shields.io/github/stars/Jacky088/homepage?style=flat-square&logo=github&color=4d6bff&labelColor=0d1117" />
+      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b8d9,50:4d6bff,100:7000ff&height=2" width="500" height="2" />
       <br/><br/>
       极简风格的个人主页与导航展示面板。
       <br/><br/>
       <code>Vue</code> <code>HTML</code>
     </td>
-  </tr>
-  <tr>
-    <td width="450" valign="top">
-      <b><a href="https://github.com/Jacky088/apps_exhibition">📱 Apps-Exhibition</a></b>&nbsp;
-      <img align="right" src="https://img.shields.io/github/stars/Jacky088/apps_exhibition?style=flat-square&logo=github&color=00b8d9&labelColor=0d1117" />
+    <td valign="top">
+      <b><a href="https://github.com/Jacky088/apps_exhibition">📱 Apps-Exhibition</a></b>
+      <img align="right" src="https://img.shields.io/github/stars/Jacky088/apps_exhibition?style=flat-square&logo=github&color=7000ff&labelColor=0d1117" />
+      <br/>
+      <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b8d9,50:4d6bff,100:7000ff&height=2" width="500" height="2" />
       <br/><br/>
       专为 WordPress 打造的 APP 应用作品展示插件。
       <br/><br/>
       <code>React</code> <code>WordPress</code>
-    </td>
-    <td width="450" valign="top">
-      <b><a href="https://github.com/Jacky088/goods_exhibition">🛍️ Goods-Exhibition</a></b>&nbsp;
-      <img align="right" src="https://img.shields.io/github/stars/Jacky088/goods_exhibition?style=flat-square&logo=github&color=7000ff&labelColor=0d1117" />
-      <br/><br/>
-      精品好物与周边橱窗展示 WordPress 插件。
-      <br/><br/>
-      <code>Vue</code> <code>Tailwind</code> <code>WordPress</code>
     </td>
   </tr>
 </table>
@@ -95,6 +107,7 @@
 
 | 项目名称 | 简介 |
 | :--- | :--- |
+| **[Goods-Exhibition](https://github.com/Jacky088/goods_exhibition)** | 精品好物与周边橱窗展示 WP 插件 |
 | **[Elegant-TOC](https://github.com/Jacky088/Elegant-TOC)** | 优雅的文章目录与大纲悬浮导航 WP 插件 |
 | **[Photo-Wall](https://github.com/Jacky088/photo-wall)** | 响应式个人摄影与精美图片墙 WP 插件 |
 | **[Flavor-Like](https://github.com/Jacky088/flavor-like)** | 现代化的轻量级点赞与互动 WP 组件 |
